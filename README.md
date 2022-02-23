@@ -19,6 +19,8 @@ Q: What are you listening to right now?
 A:
 <iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/in/album/erase-me-feat-jacob-collier/1592586652?i=1592586658"></iframe>
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0In3u56vbH2at3bViAzzwq?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
 Q: I couldn't help but notice your obsession with lowercase?  
 A: i am from a lowercaste that's why, you casteist! sry just kidding. i find letter case redundant, in fact, you d'ont even hvae to splel wdors ceclrorty for it to mkae sseen. i wouldn't even be surprised if english gets replaced by another well constructed language as a global language and...
 
