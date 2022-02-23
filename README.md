@@ -8,9 +8,9 @@ A: i am well versed in
 <img src = "https://img.icons8.com/color/c-sharp-logo" alt = "C#" width = 24> not bad, at least it's not java,
 <img src = "https://img.icons8.com/color/c-programming" alt = "C" width = 24> yeah! now that's what i am talking about.  
 * i can also manage my way around these
-<img src = "https://img.icons8.com/color/javascript" alt = "Javascript" width = 24>
-<img src = "https://img.icons8.com/color/html-5" alt = "HTML" width = 24>
-<img src = "https://img.icons8.com/color/css3" alt = "CSS" width = 24>.
+<img src = "https://img.icons8.com/color/javascript" alt = "Javascript" width = 24> 
+<img src = "https://img.icons8.com/color/html-5" alt = "HTML" width = 24> 
+<img src = "https://img.icons8.com/color/css3" alt = "CSS" width = 24>. 
 
 Q: ...the languages you speak at home?  
 A: oh, so you were talking about that. well! my mother tongue is marathi but my primary language is english.
