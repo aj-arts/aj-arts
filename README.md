@@ -1,5 +1,5 @@
 Q: So, Ajinkya tell me about yourself?  
-A: i'd prefer aj and come on man, let's keep this short. it would help if you could be a bit more specific.
+A: i'd prefer aj and come on, let's keep this short. it would help if you could be a bit more specific.
 
 Q: Okay, so tell me about the languages...  
 A: i am well versed in 
