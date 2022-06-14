@@ -17,7 +17,7 @@ A: [Reckless Driving by Lizzy Mcalpine ft. Ben Kessler](https://open.spotify.com
 i actually tried embedding the tracks but you know how it is on github.
 
 Q: I couldn't help but notice your obsession with lowercase?  
-A: i am from a lowercaste that's why, you casteist! sry just kidding. i find letter case redundant, in fact, you d'ont even hvae to splel wdors ceclrorty for it to mkae sseen. i wouldn't even be surprised if english gets replaced by another well constructed language as a global language and...
+A: i find letter case redundant, in fact, you d'ont even hvae to splel wdors ceclrorty for it to mkae sseen. i wouldn't even be surprised if english gets replaced by another well constructed language as a global language and...
 
 Q: Interesting! I hate to interrupt, but we are getting a little off topic. Final question, where do you see yourself in 5 years?  
 A: really?😑 that's what your last question is? you didn't even try to write this script, did you?🤦🏻‍♂️ I plan to do a few things : 
