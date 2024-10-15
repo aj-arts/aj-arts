@@ -1,26 +1,41 @@
-Q: So, Ajinkya tell me about yourself?  
-A: i'd prefer aj and come on, let's keep this short. it would help if you could be a bit more specific.
+# Hi there, I'm Ajinkya Gokule 👋
 
-Q: Okay, so tell me about the languages...  
-A: i am well versed in 
-* <img src = "https://img.icons8.com/color/python" alt = "Python" width = 24> i love the simplicity ok, so sue me.
-* <img src = "https://img.icons8.com/color/c-plus-plus-logo" alt = "C++" width = 24> ugh not this one, 
-<img src = "https://img.icons8.com/color/c-sharp-logo" alt = "C#" width = 24> not bad, at least it's not java,
-<img src = "https://img.icons8.com/color/c-programming" alt = "C" width = 24> yeah! now that's what i am talking about.  
-* i can also manage my way around these <img src = "https://img.icons8.com/color/javascript" alt = "Javascript" width = 24> <img src = "https://img.icons8.com/color/html-5" alt = "HTML" width = 24> <img src = "https://img.icons8.com/color/css3" alt = "CSS" width = 24>. 
+I'm a **Computer Science major** at Oregon State University, currently pursuing an **Accelerated Master's Program** in Computer Science. I have a passion for **Artificial Intelligence**, **backend development**, and **adversarial robustness research**.
 
-Q: ...the languages you speak at home?  
-A: oh, so you were talking about that. well! my mother tongue is marathi but my primary language is english.
+### 📚 **Education**
+- **Honors Bachelor of Science in Computer Science**, Minor in Economics (Expected graduation: 2026)
+- GPA: **4.0**
+- **Dean's List** (3x), **Best Learning Assistant 2023**, **URSA Engage Award Recipient** (2x)
 
-Q: What are you listening to right now?  
-A: [Reckless Driving by Lizzy Mcalpine ft. Ben Kessler](https://open.spotify.com/track/3rX7jCeMKpyHH6bFohXcWd?si=8095741f0e1347d1)  
-i actually tried embedding the tracks but you know how it is on github.
+### 💻 **Technical Skills**
+- **Languages**: Python, C/C++, SQL, JavaScript, R, Arduino, Latex, Bash, HTML/CSS
+- **Frameworks**: Flask, LlamaIndex, Chrome Web API, React, Node.js, Matlab, Jinja
+- **Libraries**: PyTorch, Scikit-learn, Pandas, Numpy, Scipy, Matplotlib
+- **Tools**: AWS, Git, VS Code, PyCharm, Figma
 
-Q: I couldn't help but notice your obsession with lowercase?  
-A: i find letter case redundant, in fact, you d'ont even hvae to splel wdors ceclrorty for it to mkae sseen. i wouldn't even be surprised if english gets replaced by another well constructed language as a global language and...
+### 🌟 **Key Projects**
+- **[Backcast](https://devpost.com/software/timeless-w1ze62)**: Developed a retro AI-driven radio show that plays music and discusses historical events of each day, winning the Hack Through Time Spring 2024 competition.
+- **[Focii](https://devpost.com/software/focii)**: Built a Chrome extension with backend server integration to enhance user focus using word embedding and filtration techniques.
+- **[shortsGenerator](https://devpost.com/software/shorts-generator)**: Collaborated on a command-line tool to generate short-form videos using AI, significantly reducing content creation time.
 
-Q: Interesting! I hate to interrupt, but we are getting a little off topic. Final question, where do you see yourself in 5 years?  
-A: really?😑 that's what your last question is? you didn't even try to write this script, did you?🤦🏻‍♂️ I plan to do a few things : 
-* first of all, i want to complete my music album and release it. then release another album that only has features.
-* to complete [melodify](https://github.com/AyushPathak3011/Melodify) - a fully functioning ai music generator so i can compete with the lofi 24x7 channel.
-* learn to draw. yeah! i know it sounds lame but life is so much easier when you can draw basic stuff.
+### 🏆 **Awards & Achievements**
+- OSU Hackathon Winner (3x)
+- **Best Learning Assistant 2023 Award**
+- **URSA Engage Award Recipient** (2x)
+- **Dean's List** (3x), **Drucilla Shepard Smith Award for 4.0 GPA**
+
+### 🧠 **Research**
+- Lead Research Assistant at the **Secure AI Systems Lab (SAIL)** at OSU
+- Working on the adversarial robustness of Implicit Neural Representation and NFT-based classifiers, collaborating with ASU for ICML 2025 paper submission.
+
+### 📫 **Get in touch!**
+- **LinkedIn**: [linkedin.com/in/ajinkyagokule](https://linkedin.com/in/ajinkyagokule)
+- **GitHub**: [github.com/aj-arts](https://github.com/aj-arts)
+- **Email**: [ajinkyagokule@gmail.com](mailto:ajinkyagokule@gmail.com)
+
+---
+
+**Fun Facts**:
+- 📖 I enjoy combining my knowledge of economics and AI to explore unique interdisciplinary projects.
+- 🎶 In my free time, I like to make music and dance with the Kinetic K-Pop Club.
+- 💻 I'm an active member of the ACM and Beaver Hackathon Club at OSU.
