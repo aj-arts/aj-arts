@@ -24,14 +24,16 @@ Currently, I'm building multi-agent systems, researching AI security, and prepar
 ### 🚀 **Featured Projects**
 *A mix of AI research, systems engineering, and hackathon-winning applications:*
 
-- 🧠 **[RLoRA: Lightweight RL Framework Paper](https://tinyurl.com/rlorafullpaper):** Co-authored a framework combining QLoRA and GRPO for Small Language Models, matching SOTA math-reasoning benchmarks with 50% less compute.
-- 👁️ **[3D Sound & Visual Aid (Jedi Vision)](https://github.com/Jedi-Vision/jedi-vision-nano-code):** AI visual aid using Vision Transformers and bone conduction for spatial mapping. *(Partnered with NVIDIA)*
-- 💻 **[JOS Operating System](https://github.com/aj-arts/jos-operating-system-implementation):** Built a 32-bit x86 OS from scratch including a bootloader, paging kernel, syscalls, IPC, and preemptive scheduling.
-- 🚗 **[CatchARide](https://devpost.com/software/catcharide):** Student rideshare platform with a custom routing algorithm. *(1st Place, Beaver Hacks Spring 2025)*
-- 📚 **[GetTheDamClass](https://devpost.com/software/getthedamclass):** Chrome extension notifying OSU students of class openings, built with React, Docker, and Flask. *(1st Place, BeaverHacks Fall 2024)*
-- 📱 **[Campus Companion](https://github.com/Carson274/CampusView):** Full-stack mobile app utilizing React Native, FastAPI, and realtime web scraping microservices.
-- 📻 **[Backcast](https://devpost.com/software/timeless-w1ze62):** 24/7 retro AI-driven radio show generating historical events and music. *(1st Place, Hack Through Time Spring 2024)*
-- 🎯 **[Focii](https://devpost.com/software/focii):** ML-powered Chrome extension using word embeddings to block distracting sites. *(1st Place, Hack Education Fall 2023)*
+| Project | Description |
+| --- | --- |
+| 🧠 **[RLoRA: Lightweight RL Framework Paper](https://tinyurl.com/rlorafullpaper)** | Co-authored a framework combining QLoRA and GRPO for Small Language Models, matching SOTA math-reasoning benchmarks with 50% less compute. |
+| 👁️ **[3D Sound & Visual Aid (Jedi Vision)](https://github.com/Jedi-Vision/jedi-vision-nano-code)** | AI visual aid using Vision Transformers and bone conduction for spatial mapping. *(Partnered with NVIDIA)* |
+| 💻 **[JOS Operating System](https://github.com/aj-arts/jos-operating-system-implementation)** | Built a 32-bit x86 OS from scratch including a bootloader, paging kernel, syscalls, IPC, and preemptive scheduling. |
+| 🚗 **[CatchARide](https://devpost.com/software/catcharide)** | Student rideshare platform with a custom routing algorithm. *(1st Place, Beaver Hacks Spring 2025)* |
+| 📚 **[GetTheDamClass](https://devpost.com/software/getthedamclass)** | Chrome extension notifying OSU students of class openings, built with React, Docker, and Flask. *(1st Place, BeaverHacks Fall 2024)* |
+| 📱 **[Campus Companion](https://github.com/Carson274/CampusView)** | Full-stack mobile app utilizing React Native, FastAPI, and realtime web scraping microservices. |
+| 📻 **[Backcast](https://devpost.com/software/timeless-w1ze62)** | 24/7 retro AI-driven radio show generating historical events and music. *(1st Place, Hack Through Time Spring 2024)* |
+| 🎯 **[Focii](https://devpost.com/software/focii)** | ML-powered Chrome extension using word embeddings to block distracting sites. *(1st Place, Hack Education Fall 2023)* |
 
 ### 🏆 **Awards & Fun Facts**
 - **5x Hackathon Winner** & System Design Lead at OSU Product Management Club
