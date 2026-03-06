@@ -18,7 +18,7 @@ Currently, I'm building multi-agent systems, researching AI security, and prepar
 - **Microsoft** | *Incoming Product Management Intern (Security)* (Summer 2026)
 - **Genesis Team @ OSU** | *Multi-Agent Systems Developer* (May 2025 – Present) - Deploying production AI agents on AWS and managing an 8-person engineering team.
 - **HP** | *Software and Research Intern* (Feb 2025 – Sept 2025) - Developing Physics-Informed Neural Networks (PINNs) to model fluid flow for semiconductor cooling.
-- **Secure AI Systems Lab (SAIL)** | *AI Security Research Assistant* (Dec 2023 – Present) - Researching adversarial robustness of Implicit Neural Representation and image classifiers.
+- **Secure AI Systems Lab (SAIL)** | *AI Security Research Assistant* (Dec 2023 – Dec 2025) - Researching adversarial robustness of Implicit Neural Representation and image classifiers.
 - **College of Business @ OSU** | *AI Backend Software Engineer Intern* (Spring 2024) - Built and deployed a RAG-based LLM chatbot using LlamaIndex and AWS to assist freshmen.
 
 ### 🚀 **Featured Projects**
